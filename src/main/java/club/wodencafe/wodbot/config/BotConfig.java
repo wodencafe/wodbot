@@ -1,4 +1,4 @@
-package club.wodencafe.wodbot.entities;
+package club.wodencafe.wodbot.config;
 
 import java.util.List;
 
